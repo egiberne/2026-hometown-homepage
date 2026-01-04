@@ -35,7 +35,7 @@ Here are the concepts praticed :
 ![A video about the Hometown Homepage](./image.gif "See the Hometown Homepage?" )
 
 ### 🎮 Live
-[Hometown Homepage](https://2025-my-hometown-homepage.netlify.app/)
+[Hometown Homepage](https://2026-hometown-homepage.netlify.app/)
 
 ## Status
 ![Status](https://img.shields.io/badge/status-active-brightgreen)

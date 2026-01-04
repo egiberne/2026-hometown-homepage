@@ -4,10 +4,19 @@ See all notable changes to this project documented in this file. The log of my #
 
 ## [Unreleased]
 
-- Customize the details with my real hometown
 - Improve the accessibility
 - Implement javascript
-- Levrage localstorage
+- Leverage localstorage
+- Change the color chart
+- Change the picture
+
+## [0.0.4] - 2026-01-03
+
+### Change 
+
+- Update with picture and text related to Fort of France (Fort de France).
+- Update the `<time>` element with `datetime` attribut to improve the symantic.
+
 
 ## [0.0.3] - 2026-01-03
 
