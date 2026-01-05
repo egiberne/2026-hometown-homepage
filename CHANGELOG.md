@@ -1,19 +1,26 @@
-# Changelog
+# CHANGELOG
 
 See all notable changes to this project documented in this file. The log of my #100DaysOfCode challenge.
 
 ## [Unreleased]
 
-- Improve the accessibility
 - Implement javascript
 - Leverage localstorage
-- Change the color chart
-- Change the picture
+- Change the chart color
+- Change the pictures
+- Improve contrast for accessibility
 
-## [0.0.4] - 2026-01-03
+
+## [0.0.5] - 2026-01-03
 
 ### Change 
 
+- Update text in the header
+
+
+## [0.0.4] - 2026-01-04
+
+### Change 
 - Update with picture and text related to Fort of France (Fort de France).
 - Update the `<time>` element with `datetime` attribut to improve the symantic.
 
