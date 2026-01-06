@@ -1,8 +1,5 @@
-# Hometown Homepage 🏙️
-_Homepage about a hometown_
-
-## ✨ Built To
-- Allow users to discover the hometown of one of the local guide 
+# The Hometown 🏙️
+_Hometown is an accessible and responsive webpage to present a city. Users can showcase his hometown, feature  activities, locations and inroduce a local guide._
 
 ## 🛠️ Built With
 Here are technologies:

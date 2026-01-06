@@ -9,6 +9,8 @@ See all notable changes to this project documented in this file. The log of my #
 - Change the chart color
 - Change the pictures
 - Improve contrast for accessibility
+- Improve loading speed
+- Implement a button to download the project
 
 
 ## [0.0.5] - 2026-01-03
