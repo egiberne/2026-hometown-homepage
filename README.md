@@ -1,5 +1,5 @@
 # The Hometown 🏙️
-_Hometown is an accessible and responsive webpage to present a city. Users can showcase his hometown, feature  activities, locations and inroduce a local guide._
+_Hometown is an accessible and responsive webpage to present a city. Users can showcase his hometown, feature  activities, locations and introduce a local guide._
 
 ## 🛠️ Built With
 Here are technologies:

@@ -11,18 +11,13 @@ Licensed under the Creative Commons Attribution 4.0 International License (CC BY
 Source: https://github.com/twitter/twemoji  
 License: https://creativecommons.org/licenses/by/4.0/  
 
-No endorsement by Twitter or the contributors is implied.
-
 ---
 
 ## Roboto Font Family
-© Google and the Roboto Project Authors.  
-Licensed under the Apache License, Version 2.0.  
+Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto-classic)
+This Font Software is licensed under the SIL Open Font License, Version 1.1 . This license is copied below, and is also available with a FAQ at: https://openfontlicense.org
 
-Font source: https://fonts.google.com/specimen/Roboto  
-License: http://www.apache.org/licenses/LICENSE-2.0  
-
-No endorsement by Google is implied.
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 
 ---
 

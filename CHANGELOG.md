@@ -13,6 +13,13 @@ See all notable changes to this project documented in this file. The log of my #
 - Implement a button to download the project
 
 
+## [0.0.6] - 2026-01-14
+
+### Change 
+
+- Update the legal notice about the licenses.
+
+
 ## [0.0.5] - 2026-01-03
 
 ### Change 
