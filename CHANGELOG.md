@@ -15,6 +15,10 @@ See all notable changes to this project documented in this file. The log of my #
 
 ## [0.0.6] - 2026-01-14
 
+### Add
+
+- Include the license 
+
 ### Change 
 
 - Update the legal notice about the licenses.
