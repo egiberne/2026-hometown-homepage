@@ -211,3 +211,21 @@ LIGHT BLUE: #457B9D
 DARK BLUE: #1D3557
 
 */
+
+
+#modal{
+
+    width: 400px;
+    height: 250px;
+    background-color: whitesmoke;
+    position: fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    margin:auto;
+    padding:20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 15px 1px gray;
+
+}

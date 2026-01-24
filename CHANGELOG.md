@@ -11,29 +11,33 @@ See all notable changes to this project documented in this file. The log of my #
 - Improve contrast for accessibility
 - Improve loading speed
 - Implement a button to download the project
+- Implement a modal or pop-up
 
+
+## [0.0.7] - 2026-01-24
+
+### Added
+- Implement a modal pop-up window. 
+- Implement a close button for popup.
 
 ## [0.0.6] - 2026-01-14
 
-### Add
-
+### Added
 - Include the license 
 
-### Change 
-
+### Changed
 - Update the legal notice about the licenses.
 
 
 ## [0.0.5] - 2026-01-03
 
-### Change 
-
+### Changed 
 - Update text in the header
 
 
 ## [0.0.4] - 2026-01-04
 
-### Change 
+### Changed
 - Update with picture and text related to Fort of France (Fort de France).
 - Update the `<time>` element with `datetime` attribut to improve the symantic.
 
